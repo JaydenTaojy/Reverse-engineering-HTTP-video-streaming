@@ -1,4 +1,6 @@
 # Reverse-engineering-HTTP-video-streaming
+See the assignment file for details about the projtect: 
+
 part d:
 import dpkt
 import math
